@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto+Slab:wght@800&display=swap');
+.card-img-top{
+    width: 100;
+    height: 300px;
+    object-fit: ;
+    object-position: ;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+}
+.logos{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    align-items: center;
+    justify-content: center;
+
+   
+   
+}
